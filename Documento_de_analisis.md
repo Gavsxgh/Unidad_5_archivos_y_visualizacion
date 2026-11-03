@@ -18,10 +18,7 @@
 
 **3. Pasajeros y carga se relacionan solo cuando se mira la escala correcta; y la geografía de Satena se refleja en los datos.** En el diagrama de dispersión, la correlación lineal entre pasajeros y carga es casi nula (0,08), porque unos pocos vuelos de carga distorsionan todo; en escala logarítmica, sobre las 32.909 filas con ambos valores, sube a 0,72. En Satena, el 84 % de los 57 aeropuertos son nacionales y la mayoría está a baja altura (la mitad por debajo de 170 m, frente a los 2.548 m de El Dorado); entre los 37 con temperatura registrada, a más elevación menos calor (correlación −0,80), aunque el 35 % de las temperaturas falta, lo que limita esa lectura.
 
-### Observaciones sobre los textos
 
-- juvenila.txt: las palabras más repetidas (vida, años, hombre, tiempo, espíritu) reflejan el tono reflexivo y autobiográfico de la obra. El histograma muestra que el 89 % de las líneas mide entre 60 y 79 caracteres: es el ancho fijo de formato de Gutenberg, no una característica del autor.
+### Video de sustentacion:
 
-- sample3.txt: sus líneas son párrafos largos (promedio de 220 caracteres, máximo 818) y solo 3 líneas son cortas (títulos). Con apenas 546 palabras, el top 5 es un empate en 3 repeticiones, así que no hay una palabra dominante como en un texto real.
 
-*Herramientas: Python (pandas y matplotlib). Los conectores excluidos del top de palabras corresponden a listas de palabras vacías en español y latín.*
